@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/cbe9ea5c-9d36-4b80-99fb-5b7a636bfcb8" alt="Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г." width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г._
+    <em>Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г.</em>
   </span>
 </div>
 
@@ -18,7 +18,7 @@
   <img src="https://github.com/user-attachments/assets/893efe11-617c-47a5-9d87-3026cf754f2d" alt="Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 650, с выбросами" width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 650, с выбросами_
+    <em>Исходный ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 650, с выбросами</em>
   </span>
 </div>
 
@@ -26,7 +26,7 @@
   <img src="https://github.com/user-attachments/assets/2c160191-7571-48e3-84e2-94dfeb7d33f0" alt="Ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 644, после удаления выбросов" width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 644, после удаления выбросов_
+    <em>Ночной спутниковый снимок, ночной вид Москвы, 2023 г., шкала от 0 до 644, после удаления выбросов</em>
   </span>
 </div>
 </center>
@@ -35,7 +35,7 @@
   <img src="https://github.com/user-attachments/assets/115ff483-109e-41dd-ace5-18cf3f29bd32" alt="Среднегодовая освещенность Москвы в 2012-2023" width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Среднегодовая освещенность Москвы в 2012-2023 гг._
+    <em>Среднегодовая освещенность Москвы в 2012-2023 гг.</em>
   </span>
 </div>
 </center>
@@ -52,7 +52,7 @@
   <img src="https://github.com/user-attachments/assets/b3e6c1d5-96b0-441a-9c40-fb7d9a80886b" alt="Динамика средней освещенности по городам в 2012-2023" width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Динамика средней освещенности по городам в 2012-2023 гг._
+    <em>Динамика средней освещенности по городам в 2012-2023 гг.</em>
   </span>
 </div>
 </center>
@@ -63,7 +63,7 @@
   <img src="https://github.com/user-attachments/assets/3fb6691a-0977-43dc-be29-fb01d3ab2d23" alt="Динамика медианной освещенности по городам в 2012-2023" width="500">
   <br>
   <span style="display: block; text-align: center; margin-top: 5px;">
-    _Динамика медианной освещенности по городам в 2012-2023 гг._
+    <em>Динамика медианной освещенности по городам в 2012-2023 гг.</em>
   </span>
 </div>
 </center>
